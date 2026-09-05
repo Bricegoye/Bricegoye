@@ -70,10 +70,10 @@ The platform automatically collects public market data, validates trading sessio
 `SQL` `Python` `Pandas` `BigQuery` `Snowflake` `Dataiku` `PostgreSQL`
 
 ### Engineering & Automation
-`Git` `GitHub` `APIs` `Playwright` `Supabase` `Next.js` `TypeScript`
+`Git` `GitHub` `APIs` `Playwright` `n8n` `Workflow Automation` `Supabase` `Next.js` `TypeScript`
 
 ### AI
-`OpenAI API` `AI-assisted Analytics` `Analytics Automation`
+`OpenAI API` `AI-assisted Analytics` `AI Workflow Automation`
 
 ---
 
