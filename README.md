@@ -13,6 +13,9 @@ My work sits at the intersection of **analytics implementation, data analysis, a
 ## 🚀 Featured Projects
 
 ### 🔎 AIP — Analytics Intelligence Platform
+<p align="center">
+  <img src="./aip-audit-peugeot.png" alt="AIP Analytics Intelligence Platform - Digital Analytics Audit" width="900">
+</p>
 
 A Digital Analytics auditing platform designed to analyze websites and identify their analytics implementation.
 
@@ -37,6 +40,9 @@ AIP combines static analysis with browser-based runtime inspection to detect ana
 ---
 
 ### 📈 BRVM Analytics
+<p align="center">
+  <img src="./brvm-dashboard-overview.png" alt="BRVM Analytics Market Intelligence Dashboard" width="900">
+</p>
 
 An end-to-end market data and analytics platform for the **Bourse Régionale des Valeurs Mobilières (BRVM)**.
 
