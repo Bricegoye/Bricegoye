@@ -38,11 +38,11 @@ AIP combines static analysis with browser-based runtime inspection to detect ana
 👉 [View AIP on GitHub](https://github.com/Bricegoye/AIP)
 
 ---
-### TagPlan Studio — Faciliter la création de plans de marquage
-Projet visant à automatiser la préparation de plans de marquage à partir de standards existants, en les adaptant aux marques, marchés et parcours digitaux. L’objectif : réduire les tâches répétitives et rendre les livrables plus cohérents.
+### TagPlan Studio — Streamlining Tracking Plan Creation
 
-**Expertise mobilisée :** Digital Analytics, structuration des règles métier et automatisation.
-
+A project designed to automate tracking plan preparation using existing standards, adapting them to different brands, markets and digital journeys. The goal is to reduce repetitive work and improve consistency across deliverables.
+ 
+**Core expertise: :** Digital Analytics, business rules and automation.
 
 ### 📈 BRVM Analytics
 <p align="center">
@@ -71,15 +71,17 @@ The platform automatically collects public market data, validates trading sessio
 🌐 [Live Dashboard](https://dashboard-brice-goye.vercel.app/)
 
 ---
-### FIP — Exploiter les données pour faciliter la recherche de vols
-Projet autour du suivi des prix des vols Paris–Abidjan et de la mise en relation des offres avec les préférences des voyageurs. L’objectif : transformer des données tarifaires en informations utiles pour orienter une recherche.
+FIP — Turning Flight Data into Travel Insights
 
-**Expertise mobilisée :** collecte de données, analyse et automatisation.
+A project exploring Paris–Abidjan flight price monitoring and matching offers with traveler preferences. The goal is to turn pricing data into useful insights that support travel planning.
 
-### Mon Carnet Pro — Simplifier le suivi de l’activité commerciale
-Projet exploratoire destiné aux artisans et commerçants pour mieux suivre leurs commandes, paiements et livraisons. Il part d’un besoin concret de terrain pour concevoir un outil simple, adapté au quotidien des petites activités.
+Core expertise: data collection, analysis and automation.
 
-**Compétences développées :** analyse des besoins, conception produit et développement assisté par IA avec Codex.
+Mon Carnet Pro — Simplifying Daily Business Management
+
+An exploratory project designed to help small retailers and craftspeople track orders, payments and deliveries. Built around a real business need, it explores how a simple application can support everyday operations.
+
+Skills developed: requirements analysis, product design and AI-assisted development with Codex.
 
 ## 🧰 Technical Skills
 
